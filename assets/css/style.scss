@@ -7,6 +7,12 @@
     opacity: 0.95;
 }
 
+#videoBG {
+    position:absolute;
+    width:100%;
+    height: auto;
+}
+
 .is-active {
     font-weight: 600;
 }
@@ -47,7 +53,7 @@ a.navbar-item.is-active {
 
     &::before {
         filter: blur(0.15rem);
-        background-image: url({{site.heroimage}});
+        //background-image: url({{site.heroimage}});
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -62,6 +68,7 @@ a.navbar-item.is-active {
     }
 }
 .title {
+    padding-top: 300px;
     margin: auto 0.75rem!important;
 }
 .subtitle {
