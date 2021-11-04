@@ -1,4 +1,4 @@
 ---
 layout: project
-title: Partners
+title: All Partners
 ---

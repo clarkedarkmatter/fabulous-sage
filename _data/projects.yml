@@ -1,20 +1,20 @@
 - name: Island Rayz Tanning Center
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
+  image: /assets/images/rayz.png
+  link: https://www.islandrayztanning.com
   description: Salon, store and more.
 - name: Noah Robinson for Sheriff
-  link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  link: https://www.noahrobinsonforsheriff.com
+  image: /assets/images/noah.png
   description:  2022 Candidate for Vanderburgh County Sheriff
 - name: Evansville Adaptive Watersports
-  link:
+  link: https://www.evansvilleadaptivewatersports.org
   image: /assets/images/eaw.png
   description: Non-profit dedicated to providing exercise opportunities through watersports.
 - name: Author Todd Schimmell
-  link:
+  link: https://www.authortodd.com
   image: /assets/images/authortodd.png
   description: Poet, illustrator writing books and spreading love.
 - name: David Sharp for Congress
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: Candidate for U.S. House of Representatives - KY-1
+  link: https://www.davidsharpforcongress.org
+  image: /assets/images/sharp.png
+  description: Candidate for U.S. House of Representatives
