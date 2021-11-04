@@ -115,7 +115,8 @@ a.navbar-item.is-active {
             filter: opacity(0.75);
         }
     }
-
+    h2 { font-size: 30px;
+          padding: 20px; }
     hr {
         background-color: black;
     }
@@ -128,6 +129,10 @@ a.navbar-item.is-active {
 
     .container {
         margin: 1.5rem auto;
+    }
+
+    .results-container {
+        background-color: black;
     }
 
     #blog-card {
@@ -274,7 +279,7 @@ a.navbar-item.is-active {
 }
 
 #project {
-  background-color: black;
+    background-image: url("/assets/images/dark.jpg");
     .columns {
         .column {
             border-radius: 0.5rem;
