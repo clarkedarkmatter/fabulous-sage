@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Bonus
 layout: page
 ---
 
@@ -11,7 +11,7 @@ layout: page
 ###### This is heading 6
 
 [This is a link](#)
-
+ {{site.title}}
 > This is a blockquote
 
 `This is code`
