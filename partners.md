@@ -1,4 +1,4 @@
 ---
-layout: project
-title: All Partners
+layout: client
+title: All Clients
 ---

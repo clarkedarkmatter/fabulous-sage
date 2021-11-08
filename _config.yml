@@ -10,25 +10,25 @@ favicon-url: null
 heroimage: >-
   '/WhatATheme/assets/images/banner.mp4'
 email: admin@darkmatter.works
+phone: 812-455-5793
 facebook_username: darkmatterllc
 twitter_username: darkmatter_work
 instagram_username: darkmatter.works
-linkedin_username: thedevslot
-github_username: clarkedarkmatter
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+linkedin_username:
+github_username:
+youtube_channel_id:
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
 google-analytics: G-5Z8DJEKG3R
 disqus-shortname: Dark Matter
 author-name: Dark Matter
 author-image: >-
-  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+  /assets/images/logo.png
 author-about: >-
-  We are focused on one thing. Getting you more of what you want.
-author-about2: Want new connections, new opportunities? We've got them.
-author-url: 'https://github.com/thedevslot'
+  Marketing for the future.
+author-url: ''
 sass:
   sass_dir: _sass
   style: compressed

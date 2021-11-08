@@ -7,16 +7,6 @@
     opacity: 0.95;
 }
 
-#videoBG {
-    position:absolute;
-    width: 100%;}
-
-@media (max-width: 480px) {
-    #videoBG
-    {
-      display: none;
-    }
-}
 
 .is-active {
     font-weight: 600;
@@ -279,7 +269,7 @@ a.navbar-item.is-active {
 }
 
 #project {
-    background-image: url("/assets/images/dark.jpg");
+  background-color: black;
     .columns {
         .column {
             border-radius: 0.5rem;
@@ -375,3 +365,10 @@ a.navbar-item.is-active {
         }
     }
 }
+
+@media (min-width: 844px) {
+
+  #try {
+    display: none;
+}
+  }
