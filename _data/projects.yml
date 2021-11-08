@@ -1,15 +1,15 @@
 - name: Island Rayz Tanning Center
   image: /assets/images/rayz.png
   link: https://www.islandrayztanning.com
-  description: Salon, store and more.
+  description: Tanning salon, teeth whitening, lotion and more.
+- name: Evansville Adaptive Watersports
+  link: https://www.evansvilleadaptivewatersports.org
+  image: /assets/images/eaw.png
+  description: Providing exercise opportunities through watersports.
 - name: Noah Robinson for Sheriff
   link: https://www.noahrobinsonforsheriff.com
   image: /assets/images/noah.png
   description:  2022 Candidate for Vanderburgh County Sheriff
-- name: Evansville Adaptive Watersports
-  link: https://www.evansvilleadaptivewatersports.org
-  image: /assets/images/eaw.png
-  description: Non-profit dedicated to providing exercise opportunities through watersports.
 - name: Author Todd Schimmell
   link: https://www.authortodd.com
   image: /assets/images/authortodd.png

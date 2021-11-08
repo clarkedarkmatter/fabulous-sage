@@ -3,29 +3,36 @@
         <div class="container">
           <h2>Start a conversation.</h2>
             {% unless site.facebook_username == %}
-            <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
+            <a id="contact-button" href="https://m.me/darkmatterllc"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fab fa-facebook-messenger"></i>Ping me on Messenger
+                <i class="fab fa-facebook-messenger"></i>Ping us on Messenger
             </a>
             {% endunless %}
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Send me an Email
+                <i class="fas fa-envelope"></i>Send an Email
             </a>
             {% endunless %}
             {% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fab fa-twitter"></i>Tweet me on Twitter
+                <i class="fab fa-twitter"></i>Tweet Us
             </a>
+            {% endunless %}
+            {% unless site.phone == %}
+            <div id=try><a id="contact-button" href="tel:{{site.phone}}"
+                class="button button-mobile is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                target="_blank">
+                <i class="fa fa-phone"></i>Call or Text
+            </a></div>
             {% endunless %}
             <hr>
             <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                You Can find me here
+                You Can find Us Here
             </h3>
             <div class="column is-full is-size-3">
                 {% unless site.facebook_username == %}
