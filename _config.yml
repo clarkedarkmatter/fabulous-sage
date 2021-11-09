@@ -1,10 +1,9 @@
 markdown: kramdown
 url: ''
-baseurl: ''
 title: 'DARK MATTER'
 tagline: 'Expand the market, fill the void'
 description: 'Expand the market, fill the void'
-url: 'darkmatter.works'
+base_url: 'darkmatter.works'
 twitter:
   username: darkmatter_work
   card: summary
@@ -18,7 +17,7 @@ social:
     - https://github.com/clarkedarkmatter
 site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 'Digital'
-favicon-url: '/assets/images/logo.png'
+favicon: /assets/images/logo_test.ico
 heroimage: >-
   ''
 email: admin@darkmatter.works
