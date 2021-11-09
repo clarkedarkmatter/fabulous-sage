@@ -48,6 +48,7 @@ plugins:
   - jekyll-admin
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-minifier
 permalink: 'blog/:title'
 compress_html:
   clippings: all
