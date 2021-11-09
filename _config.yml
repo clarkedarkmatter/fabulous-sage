@@ -2,7 +2,20 @@ markdown: kramdown
 url: ''
 baseurl: ''
 title: 'DARK MATTER'
+tagline: 'Expand the market, fill the void'
 description: 'Expand the market, fill the void'
+url: 'darkmatter.works'
+twitter:
+  username: darkmatter_work
+  card: summary
+logo: /assets/images/logo.png
+social:
+  name: Dark Matter
+  links:
+    - https://twitter.com/darkmatter_work
+    - https://www.facebook.com/darkmatterllc
+    - https://www.linkedin.com/company/77294788/
+    - https://github.com/clarkedarkmatter
 site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 'Digital'
 favicon-url: null
@@ -34,6 +47,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-seo-tag
 permalink: 'blog/:title'
 compress_html:
   clippings: all
