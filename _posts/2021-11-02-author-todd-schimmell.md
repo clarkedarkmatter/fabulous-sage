@@ -1,7 +1,7 @@
 ---
-title: Author Todd Schimmell, stories of community, love and laughter.
+title: Author Todd Schimmell
 layout: post
-post-image: /assets/images/authortodd.png
+post-image: https://darkmatterworks.b-cdn.net/assets/images/authortodd.png
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:

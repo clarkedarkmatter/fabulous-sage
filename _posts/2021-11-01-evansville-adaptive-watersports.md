@@ -1,7 +1,7 @@
 ---
-title: How to Install and use WhatATheme?
+title: Evansville Adaptive Watersports
 layout: post
-post-image: /assets/images/eaw.png
+post-image: https://darkmatterworks.b-cdn.net/assets/images/eaw.png
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
