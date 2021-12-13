@@ -1,8 +1,8 @@
 ---
-title: What is Dark Matter and how can it benefit you?
+title: Why Dark Matter?
 layout: post
 post-image: https://darkmatterworks.b-cdn.net/assets/images/dark.jpg
-description: Welcome! This post will try to give you an idea of what we do, why we do and who we do it for.
+description:
 tags:
 - audience
 - product
