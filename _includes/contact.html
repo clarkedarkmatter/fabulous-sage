@@ -6,28 +6,28 @@
             <a id="contact-button" href="https://m.me/darkmatterllc"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fab fa-facebook-messenger"></i>Facebook
+                <i class="fab fa-facebook-messenger"></i>Send a Facebook Message
             </a>
             {% endunless %}
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Email
+                <i class="fas fa-envelope"></i>Email Us
             </a>
             {% endunless %}
             {% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fab fa-twitter"></i>Twitter
+                <i class="fab fa-twitter"></i>Send a Tweet
             </a>
             {% endunless %}
             {% unless site.phone == %}
             <div id=try><a id="contact-button" href="tel:{{site.phone}}"
                 class="button button-mobile is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fa fa-phone"></i>Mobile
+                <i class="fa fa-phone"></i>Text or Call
             </a></div>
             {% endunless %}
             <hr>
