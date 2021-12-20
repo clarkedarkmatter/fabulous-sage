@@ -2,12 +2,12 @@ markdown: kramdown
 url: ''
 title: 'DARK MATTER'
 tagline: 'Expand the market, fill the void'
-description: 'Expand the market, fill the void'
+description: 'Dark Matter is a digital marketing and content organization.'
 base_url: 'darkmatter.works'
 twitter:
   username: darkmatter_work
   card: summary
-logo: '/assets/images/logo.png'
+logo: '/assets/images/logo_test.png'
 social:
   name: Dark Matter
   links:
@@ -15,9 +15,9 @@ social:
     - https://www.facebook.com/darkmatterllc
     - https://www.linkedin.com/company/77294788/
     - https://github.com/clarkedarkmatter
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/logo_test.png
 site-keywords: 'Digital'
-favicon: /assets/images/logo_test.ico
+favicon: /assets/images/logo_test.png
 heroimage: >-
   ''
 email: admin@darkmatter.works
@@ -36,7 +36,7 @@ google-analytics: G-5Z8DJEKG3R
 disqus-shortname: Dark Matter
 author-name: Dark Matter
 author-image: >-
-  /assets/images/logo.png
+  /assets/images/logo_test.png
 author-about: >-
   Marketing for the future.
 author-url: ''
