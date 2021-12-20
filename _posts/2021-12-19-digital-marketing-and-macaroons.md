@@ -12,24 +12,18 @@ tags:
 - Holidays
 ---
 
-# Authenticity and timing are extremely important
----
+As 2021 comes to a close, we can all breath a collective sigh of relief that, although tattered, we have made it through another year in a global pandemic. Don’t lose steam just yet though! Set yourself up right for 2022 by checking in, reaching out, and extending gratitude to clients that have kept your business afloat. But remember, authenticity and timing play a key role this Holiday Season.
 
-Running a business can be a tough racket. Treating yourself and your clients to something special every once in a while is important, especially during such a rough last couple of years.
+>The 100th cookie never tastes as good as the 1st. - Me
 
-# Rule of primacy and declining return
----
+Whether you are the first vendor to deliver that over-the-top fruit basket or the first person to send that cheeky handwritten card, it pays off to bring quality to the table early (pun intended).
 
-"The 100th cookie definitely doesn't taste as good as the 1st."
-
-Whether you are the first one to deliver that holiday gift, or the first one to write that incredible article or post about an upcoming topic - it pays off to bring quality to the table early (pun intended).
+This year at Dark Matter, we collaborated with local restaurant Pangea to create custom, elegant macarons that surprised our clientele. In true Dark Matter fashion, the theme was black with a little pizazz. The macarons? Café Mocha Macarons with a 24k Gold detailing. Unique? Check. Budget-friendly? Absolutely. Client bellies? Full.
 
 ![Macarons Marketing](https://darkmatterworks.b-cdn.net/assets/images/macarons.jpg)
 
-# Utilize your Networking to Double Dip
----
+We spent Friday evening hand-delivering our delicious, swanky macarons to each one of clients and engaging in important conversations
 
-We purchased incredibly unique gifts from a local company Pangea. We had the chance to plan and build a new item with them (the gold-crested, mocha macaron - sounds like a bird). Not only are we supporting an organization who's product we believe in, we had the opportunity to learn more about their digital strategy and how Dark Matter could play a role in the future.
+### We celebrated wins, mourned losses, and started looking ahead to the New Year.
 
-# Even in the age of COVID, in-person experiences are extremely important.
----
+# Mission accomplished.
