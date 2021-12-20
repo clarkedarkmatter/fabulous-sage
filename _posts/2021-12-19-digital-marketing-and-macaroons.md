@@ -12,7 +12,7 @@ tags:
 - Holidays
 ---
 
-As 2021 comes to a close, we can all breath a collective sigh of relief that, although tattered, we have made it through another year in a global pandemic. Don’t lose steam just yet though! Set yourself up right for 2022 by checking in, reaching out, and extending gratitude to clients that have kept your business afloat. But remember, authenticity and timing play a key role this Holiday Season.
+As 2021 comes to a close, we can all breath a collective sigh of relief that, although tattered, we have made it through another year in a global pandemic. ***Don’t lose steam just yet though!*** Set yourself up right for 2022 by checking in, reaching out, and extending gratitude to clients that have kept your business afloat. But remember, authenticity and timing play a key role this Holiday Season.
 
 >The 100th cookie never tastes as good as the 1st. - Me
 
