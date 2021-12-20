@@ -27,3 +27,5 @@ We spent Friday evening hand-delivering our delicious, swanky macarons to each o
 ### We celebrated wins, mourned losses, and started looking ahead to the New Year.
 
 # Mission accomplished.
+
+***Interested in partnering with Dark Matter?*** [Start here.](/#contact)
