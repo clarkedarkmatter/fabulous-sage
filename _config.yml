@@ -1,8 +1,8 @@
 markdown: kramdown
 url: ''
 title: 'DARK MATTER'
-tagline: 'Expand the market, fill the void'
-description: 'Expand the market, fill the void'
+tagline: 'Beyond The Standard Model'
+description: 'Beyond The Standard Model'
 base_url: 'darkmatter.works'
 twitter:
   username: darkmatter_work
@@ -25,10 +25,10 @@ phone: 614-600-4838
 facebook_username: darkmatterllc
 twitter_username: darkmatter_work
 instagram_username: darkmatter.works
-linkedin_username:
-github_username:
-youtube_channel_id:
-reddit_username:
+linkedin_username: 77294788
+github_username: clarkedarkmatter
+youtube_channel_id: UCjPVY-bdzK0RVmRL97ODBfw
+reddit_username: darkmatter_works
 behance_username:
 dribbble_username:
 spotify_username:
@@ -38,7 +38,11 @@ author-name: Dark Matter
 author-image: >-
   /assets/images/logo_test.png
 author-about: >-
-  Marketing for the future.
+  Marketing for the Future.
+author-about1: >-
+  Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe - a fundamental element.
+author-about2: >-
+  At Dark Matter, innovation and experimentation are precursors to success. Going 'beyond the standard model' is our goal. Let us help you grow.
 author-url: ''
 sass:
   sass_dir: _sass
