@@ -1,11 +1,11 @@
 - name: Island Rayz Tanning Center
   image: /assets/images/rayz.png
   link: https://www.islandrayztanning.com
-  description: Tanning salon, teeth whitening, lotion and more.
+  description: Premium Tanning Salon
 - name: Evansville Adaptive Watersports
   link: https://www.evansvilleadaptivewatersports.org
   image: /assets/images/eaw.png
-  description: Providing exercise opportunities through watersports.
+  description: Non-Profit, Community Fitness Group
 - name: Noah Robinson for Sheriff
   link: https://www.noahrobinsonforsheriff.com
   image: /assets/images/noah.png
@@ -13,8 +13,8 @@
 - name: Author Todd Schimmell
   link: https://www.authortodd.com
   image: /assets/images/authortodd.png
-  description: Poet, illustrator writing books and spreading love.
+  description: Author, School Resource Officer, Entertainer
 - name: David Sharp for Congress
   link: https://www.davidsharpforcongress.org
   image: /assets/images/sharp.png
-  description: Candidate for U.S. House of Representatives
+  description: Candidate for Kentucky House of Representatives

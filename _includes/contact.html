@@ -1,24 +1,25 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
     <div class="hero-body">
         <div class="container">
-          <h2>Start a conversation.</h2>
+          <p>We'd love to hear from you.</p>
+          <h2>Start A Conversation Today.</h2>
             {% unless site.facebook_username == %}
             <a id="contact-button" href="https://m.me/darkmatterllc"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                class="button is-medium is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
                 <i class="fab fa-facebook-messenger"></i>Facebook Messenger
             </a>
             {% endunless %}
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                class="button is-medium is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
                 <i class="fas fa-envelope"></i>Email Us
             </a>
             {% endunless %}
             {% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                class="button is-medium is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
                 <i class="fab fa-twitter"></i>Send a Tweet
             </a>
@@ -45,7 +46,7 @@
                 <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
                 {% endunless %}
                 {% unless site.linkedin_username ==  %}
-                <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
+                <a href="http://www.linkedin.com/company/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
                 {% endunless %}
                 {% unless site.github_username ==  %}
                 <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
