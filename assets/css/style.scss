@@ -20,27 +20,23 @@
 
 a.navbar-item:hover,
 .navbar-link:hover {
-    background-color: rgba($color: #fff, $alpha: 0.25) !important;
+    background-color: white;
     color: white !important;
 }
 
 a.navbar-item.is-active {
-    background-color: rgba($color: #fff, $alpha: 0.25) !important;
-    color: white !important;
+    background-color: black;
+    color: purple !important;
 
     &:hover {
-        background-color: rgba($color: #fff, $alpha: 0.25) !important;
-        color: grey;
+        color: white;
     }
 }
 
-.navbar-link:not(.is-arrowless)::after {
-    border-color: grey;
-}
 
 
 #hero {
-    background-image: url("/assets/images/dark.jpg");
+    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
     hr { width: 50%;}
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -50,6 +46,16 @@ a.navbar-item.is-active {
 
 }
 
+#clients {
+    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
+    hr { width: 50%;}
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 
 .title {
     margin: auto 0.75rem!important;

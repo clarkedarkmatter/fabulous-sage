@@ -15,14 +15,12 @@
         </div>
 
         <!-- children of navbar-menu must be navbar-start and/or navbar-end -->
-        <div class="navbar-menu has-background-black" id="navbar-menu">
+        <div class="navbar-menu has-background-black is-white" id="navbar-menu">
             <!-- navbar items | left side -->
             <!-- <div class="navbar-start">
             </div> -->
             <!-- navbar items | right side -->
             <div class="navbar-end">
-                <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
-                    href="{% if page.layout == 'default' %}/#{% else %}{{site.baseurl}}/{% endif %}">HOME</a>
                 <a class="navbar-item" href="/#about">ABOUT</a>
                 <a class="navbar-item" href="/#clients">CLIENTS</a>
                 <a class="navbar-item {% if page.layout == 'blog' %}is-active{% endif %}"
