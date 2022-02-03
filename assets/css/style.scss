@@ -36,40 +36,38 @@ a.navbar-item.is-active {
 
 
 #hero {
-    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
+    background: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg") no-repeat center;
     hr { width: 50%;}
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
 #contact {
-    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
+    background: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg") no-repeat center;
+
     hr { width: 50%;}
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
 #clients {
-    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
     hr { width: 50%;}
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
 
 }
 
 #blog {
-    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
+
     hr { width: 50%;}
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
 
