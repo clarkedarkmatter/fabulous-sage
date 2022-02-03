@@ -46,6 +46,17 @@ a.navbar-item.is-active {
 
 }
 
+#contact {
+    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
+    hr { width: 50%;}
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 #clients {
     background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
     hr { width: 50%;}
