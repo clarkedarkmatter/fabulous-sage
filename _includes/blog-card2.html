@@ -1,0 +1,30 @@
+<a href="{{post.url | absolute_url}}">
+  <div class="card">
+  <div class="card-image is-one-third">
+    <figure class="image is-4by3">
+      <img src="{{post.post-image}}" alt="Placeholder image">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="media">
+      <div class="media-left">
+        <figure class="image is-48x48">
+          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">{{post.title}}</p>
+        <p class="subtitle is-6">@johnsmith</p>
+      </div>
+    </div>
+
+    <div class="content">
+      {{ post.content | truncate: 300 | strip_html | strip_newlines | strip | escape }}
+      <a>@bulmaio</a>.
+      <a href="#">#css</a> <a href="#">#responsive</a>
+      <br>
+      <span class="has-text-white">Published on <span class="has-text-weight-semibold">{{ post.date | date: "%-B %d, %Y" }}</span></span> | <i class="fas fa-clock"></i> <span class="has-text-weight-semibold">{% assign words = post.content | number_of_words %}{%- unless content.size == 0 -%}{{ words | divided_by:180 }} min{% endunless %}</span>
+    </div>
+  </div>
+</div>
+</a>

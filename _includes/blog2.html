@@ -1,21 +1,11 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
 <html>
 
 {% include head.html %}
 
 <body>
-    {% include navbar.html %}
 
     <section class="hero" id="blog">
-        <div class="hero-body">
-            <div class="container">
-                {% include blogpage-heading.html %}
-            </div>
-        </div>
         <div id="results-container"></div>
         <!--Blog Cards Section-->
         <div class="columns is-mobile is-multiline is-centered">
@@ -23,9 +13,13 @@ layout: compress
             {% include blog-card.html %}
         {% endfor %}
         </div>
+        <div class="hero-body">
+            <div class="container">
+                {% include blogpage-heading.html %}
+            </div>
+        </div>
     </section>
     <!--Footer begins here-->
-    {% include footer.html %}
     <script src="{{site.url}}{{site.baseurl}}/assets/js/simple-jekyll-search.js"></script>
 
     <script>
