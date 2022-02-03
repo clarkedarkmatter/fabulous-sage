@@ -36,8 +36,7 @@ a.navbar-item.is-active {
 
 
 #hero {
-    background-image: url("https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg");
-    hr { width: 50%;}
+    background: url(https://darkmatterworks.b-cdn.net/assets/images/dark_bak.jpg) no-repeat center;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
