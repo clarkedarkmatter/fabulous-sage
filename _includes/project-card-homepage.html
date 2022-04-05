@@ -1,13 +1,13 @@
 <div class="columns is-centered is-vcentered is-multiline is-mobile">
   {% for project in site.data.projects limit: 7 %}
-    <div class="column has-text-centered is-half-tablet is-half-desktop is-one-quarter-widescreen is-one-quarter-fullhd is-three-quarters-mobile" id="project">
+    <div class="column has-text-centered is-one-third-tablet is-two-fifth-desktop is-one-quarter-widescreen is-one-fifth-fullhd is-full-mobile" id="project">
       <a href="{{project.link}}" target="_blank">
       <div class="card has-background-black">
         <figure class="image">
           <img src="{{project.image}}">
         </figure>
         <div class="card-content">
-          <h2 class="title has-text-white is-size-5">{{ project.name }}</h2>
+          <h2 class="title has-text-white is-size-6">{{ project.name }}</h2>
           <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 80}}</p>
         </div>
       </div>
